@@ -12,3 +12,4 @@ C:\Users\jaspe\source\repos\The Wicher_Road_of_Rodents\The Wicher_Road_of_Rodent
 C:\Users\jaspe\source\repos\The Wicher_Road_of_Rodents\The Wicher_Road_of_Rodents\obj\Debug\net8.0\The Wicher_Road_of_Rodents.pdb
 C:\Users\jaspe\source\repos\The Wicher_Road_of_Rodents\The Wicher_Road_of_Rodents\obj\Debug\net8.0\The Wicher_Road_of_Rodents.genruntimeconfig.cache
 C:\Users\jaspe\source\repos\The Wicher_Road_of_Rodents\The Wicher_Road_of_Rodents\obj\Debug\net8.0\ref\The Wicher_Road_of_Rodents.dll
+C:\Users\jaspe\source\repos\The Wicher_Road_of_Rodents\The Wicher_Road_of_Rodents\obj\Debug\net8.0\The Wicher_Road_of_Rodents.sourcelink.json

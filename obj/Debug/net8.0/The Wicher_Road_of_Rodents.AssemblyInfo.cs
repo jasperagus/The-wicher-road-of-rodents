@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Wicher_Road_of_Rodents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a1824c86d4b1e15a646987dc5135bb0f4ef6b48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbf3578d1517260d5cef57a26e5f7893476b205b")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Wicher_Road_of_Rodents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Wicher_Road_of_Rodents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
